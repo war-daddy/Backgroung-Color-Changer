@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+   
+    background-color: aqua;
+    
+}
+.btn{
+    margin-left: 707px;
+    margin-top: 300px;
+    cursor: pointer;
+    padding:10px;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+    color: red;
+}
